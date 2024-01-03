@@ -15,3 +15,5 @@
 - 💬 Ask me about **React,Typescript,Python,Nodejs**
 
 - ⚡ Fun fact **Happy New Year**
+
+[My Previous Github Repo](https://github.com/akashkumaryadav)
